@@ -1,5 +1,4 @@
-//数据
-var data = [
+﻿var data = [
 	{
 		'name'	:	'前端',
 		'list'	:	[
